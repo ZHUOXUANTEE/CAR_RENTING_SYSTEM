@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SECURITY MODULE", "SECURITY MODULE.vbproj", "{56949A35-DFE4-4E1D-9007-9F732A332596}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56949A35-DFE4-4E1D-9007-9F732A332596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56949A35-DFE4-4E1D-9007-9F732A332596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56949A35-DFE4-4E1D-9007-9F732A332596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56949A35-DFE4-4E1D-9007-9F732A332596}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE0177D6-6333-4C2F-9181-4D7F01259620}
+	EndGlobalSection
+EndGlobal
